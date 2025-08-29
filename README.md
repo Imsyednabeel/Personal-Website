@@ -2,8 +2,6 @@
 
 A modern, responsive portfolio website for showcasing my professional journey as a Legal Technology Pioneer & Cloud Engineering Expert. This site highlights my background, education, certifications, projects, and skills — designed to bridge law and technology with a strong focus on AI, Cloud, and LegalTech solutions.
 
-🔗 Live Demo: View Portfolio
-
 📖 Overview
 
 This project is a personal portfolio website built with HTML, CSS, and JavaScript, styled with a professional UI theme and interactive features. It is hosted on Amazon S3 (Static Website Hosting) for scalability and availability.
@@ -36,13 +34,11 @@ Styling: Custom CSS (responsive design, animations)
 
 Interactivity: JavaScript (smooth scrolling, animations, gallery modal, form handling)
 
-Hosting: AWS S3 (Static Website) with public access endpoint
-
-Deployment: Manual upload / CI/CD (can integrate GitHub Actions with S3 in future)
+Hosting: AWS S3 +  Route 53 + Cloudfront (Static Website) with public access endpoint
 
 🚀 Deployment on AWS
 
-The site is hosted on Amazon S3 (eu-north-1 region) using static website hosting.
+The site is hosted on Amazon S3  using static website hosting.
 
 Steps followed:
 
